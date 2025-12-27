@@ -32,7 +32,7 @@ Atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
-[![João Roberto Stats](https://github-readme-stats.vercel.app/api?username=joao-robertoo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-robertoo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
