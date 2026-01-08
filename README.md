@@ -19,6 +19,7 @@ Tecnologias que estou aprendendo e criando projetos:
 
 ### ⚙️ Frameworks & 📚 Bibliotecas
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Styled Components](https://img.shields.io/badge/Styled_Components-CSS_in_JS-DB7093?style=for-the-badge&logo=styled-components&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff)
 
@@ -47,6 +48,7 @@ Tecnologias que estou aprendendo e criando projetos:
 ### ⚡ Build, 📦 Pacotes & Ambiente
 ![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
 ![npm](https://img.shields.io/badge/npm-Package_Manager-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
+![Yarn](https://img.shields.io/badge/Yarn-Package_Manager-2C8EBB?style=for-the-badge&logo=yarn&logoColor=fff)
 
 ### 🔧 Versionamento & ☁️ Deploy
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
