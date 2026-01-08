@@ -17,11 +17,12 @@ Tecnologias que estou aprendendo e criando projetos:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
 
-### ⚙️ Frameworks & 📚 Bibliotecas
+### ⚙️ Frameworks 📚 Bibliotecas
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-CSS_in_JS-DB7093?style=for-the-badge&logo=styled-components&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![Axios](https://img.shields.io/badge/Axios-HTTP_Client-5A29E4?style=for-the-badge&logo=axios&logoColor=fff)
 
 ### 🌐 CMS
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=fff)
@@ -37,11 +38,12 @@ Tecnologias que estou aprendendo e criando projetos:
 
 # 🛠️ Back-end
 
-### 🟢 Runtime & ⚙️ Framework
+### 🟢 Runtime ⚙️ Framework 📚 Bibliotecas
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-Backend_HTTP_Client-2D3748?style=for-the-badge&logo=axios&logoColor=fff)
 
-### 🧩 ORM & 🗄️ Banco de Dados
+### 🧩 ORM 🗄️ Banco de Dados
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
 
@@ -50,13 +52,13 @@ Tecnologias que estou aprendendo e criando projetos:
 ![npm](https://img.shields.io/badge/npm-Package_Manager-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
 ![Yarn](https://img.shields.io/badge/Yarn-Package_Manager-2C8EBB?style=for-the-badge&logo=yarn&logoColor=fff)
 
-### 🔧 Versionamento & ☁️ Deploy
+### 🔧 Versionamento ☁️ Deploy
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=fff)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
-### ⌨️ Editor & 🖥️ Terminais
+### ⌨️ Editor 🖥️ Terminais
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=fff)
