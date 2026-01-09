@@ -21,6 +21,7 @@ Tecnologias que estou aprendendo e criando projetos:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-CSS_in_JS-DB7093?style=for-the-badge&logo=styled-components&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![Axios](https://img.shields.io/badge/Axios-HTTP_Client-5A29E4?style=for-the-badge&logo=axios&logoColor=fff)
 
@@ -90,6 +91,8 @@ Tecnologias que estou aprendendo e criando projetos:
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=fff)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=fff)
 
+![Prompt Automação](https://img.shields.io/badge/Prompt_Design-AI_Automation-9333EA?style=for-the-badge)
+![Prompt IA](https://img.shields.io/badge/Prompt_for_Generative_AI-5A29E4?style=for-the-badge&logo=chatgpt&logoColor=fff)
 
 ---
 
