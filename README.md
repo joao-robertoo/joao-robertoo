@@ -24,6 +24,9 @@ Tecnologias que estou aprendendo e criando projetos:
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![Axios](https://img.shields.io/badge/Axios-HTTP_Client-5A29E4?style=for-the-badge&logo=axios&logoColor=fff)
+![React Router SPA](https://img.shields.io/badge/React_Router-SPA_Navigation-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+
+
 
 ### 🌐 CMS
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=fff)
