@@ -119,7 +119,18 @@ Tecnologias que estou aprendendo e criando projetos:
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joao-robertoo&theme=tokyo-night) 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joao-robertoo&theme=tokyo-night)  
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-robertoo&show_icons=true&theme=tokyo-night)  
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-robertoo&layout=compact&theme=tokyo-night)  
+
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=joao-robertoo&theme=tokyo-night)
+
+
 
 
 
