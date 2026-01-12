@@ -27,16 +27,19 @@ Tecnologias que estou aprendendo e criando projetos:
 ![React Router SPA](https://img.shields.io/badge/React_Router-SPA_Navigation-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 
 
-
 ### 🌐 CMS
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=fff)
 
 ### 📱 Mobile
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
-### 🖌️ Badges de Design & Criação Visual
+### 🖌️ Design UI/UX / Criação Visual
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=fff)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=fff)
+
+### 🔌 API
+![Avatar Placeholder API](https://img.shields.io/badge/Avatar%20API-Placeholder-blue?style=for-the-badge)
 
 ---
 
