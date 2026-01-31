@@ -103,7 +103,7 @@ Tecnologias que estou aprendendo e criando projetos:
 ---
 
 ### 📁 Projeto mais recente usando React
-<img src="https://github.com/joao-robertoo/dist-iphone/blob/main/img%20README/iphone.gif?raw=true" width="510px"/> <img src="https://github.com/user-attachments/assets/170ed7a2-3529-4c96-945f-663daed56944" width="497px" />
+<img src="https://github.com/joao-robertoo/dist-iphone/blob/main/img%20README/iphone.gif?raw=true" width="490px"/> <img src="https://github.com/user-attachments/assets/170ed7a2-3529-4c96-945f-663daed56944" width="497px" />
 
 [![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://site-iphone-17-pro.vercel.app/)
 
