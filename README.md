@@ -1,3 +1,7 @@
+<img src="https://github.com/malcomtribe-ai/malcomtribe-ai/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+
+---
+
 ### 👋 Olá, eu sou o João Roberto
 
 Sou um desenvolvedor em formação Full Stack, em início de carreira, apaixonado por tecnologia e em constante evolução. Estou sempre em busca de aprender novas ferramentas e aprimorar meus projetos, atuando desde o front-end até os primeiros conceitos de back-end.
