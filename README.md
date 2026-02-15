@@ -20,6 +20,8 @@
 
 ---
 
+<div align="center">
+  
 ════════════════════════════════════════════════════════════════════════════════
                                                                                 
          ███╗   ██╗ █████╗ ███████╗ █████╗     ███╗   ███╗██╗███████╗███████╗
@@ -38,10 +40,20 @@
          ╚════════════════════════════════════════════════════════════════╝
                                                                                 
 ════════════════════════════════════════════════════════════════════════════════
+</div
+  
+---
+
+<!-- TEXTO DIGITANDO MEGA ANIMADO -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=170&lines=+ATRAVESSANDO+O+HORIZONTE+DE+EVENTOS;+DESBRAVANDO+GALÁXIAS+DE+CÓDIGO;+MISSÃO%3A+TRANSFORMAR+IDEIAS+EM+REALIDADE;+EXPLORANDO+NOVAS+FRONTEIRAS+TECNOLÓGICAS)](https://git.io/typing-svg)
 
 ---
 
-## 🛸 **SOBRE MINHA MISSÃO NO ESPAÇO DIGITAL**
+<div align="center">
+  
+## 🛸 **SOBRE MINHA MISSÃO NO ESPAÇO DIGITAL** 🛸
+
+</div>
 
 ```typescript
 const joaoRoberto = {
@@ -51,7 +63,7 @@ const joaoRoberto = {
     
     coordenadas: {
         github: "https://github.com/joao-robertoo",
-        portfolio: "https://joao-robertoo.github.io",
+        portfolio: "https://portifolio-nu-ruddy-64.vercel.app/",
         linkedin: "https://www.linkedin.com/in/joaorobertoo"
     },
     
@@ -68,6 +80,171 @@ const joaoRoberto = {
 };
 ```
 
+
+---
+
+<div align="center">
+
+🛰️ **CONTROLE DE MISSÃO - PERFIL DO ASTRONAUTA** 🛰️
+
+
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                       SISTEMA DE PERFIL DO ASTRONAUTA                          ║
+║                   ADMINISTRAÇÃO NACIONAL DE AERONÁUTICA E ESPAÇO               ║
+║                                                                                ║
+║  ┌──────────────────────────────────────────────────────────────────────┐      ║
+║  │  🆔 IDENTIFICAÇÃO                                                    │      ║
+║  │  ═══════════════════                                                 │      ║
+║  │  Nome................: JOÃO ROBERTO                                  │      ║
+║  │  Indicativo..........: FULL-STACK-01                                 │      ║
+║  │  Missão..............: PROGRAMA DESENVOLVEDOR JÚNIOR                 │      ║
+║  │  Base................: SÃO PAULO, SP - BRASIL 🇧🇷                     │       ║
+║  │  Status..............: [ATIVO] ████████████████ 100%                 │      ║
+║  └──────────────────────────────────────────────────────────────────────┘      ║
+║                                                                                ║
+║  ┌──────────────────────────────────────────────────────────────────────┐      ║
+║  │  🎯 PARÂMETROS DA MISSÃO                                             │      ║
+║  │  ═════════════════════════                                           │      ║
+║  │  Objetivo Primário......: DESENVOLVER SOLUÇÕES INOVADORAS            │      ║
+║  │  Objetivo Secundário....: EXPLORAR NOVAS TECNOLOGIAS                 │      ║
+║  │  Horas de Voo...........: 10.000+ HORAS DE CÓDIGO                    │      ║
+║  │  Especialização.........: ENGENHARIA FULL-STACK                      │      ║
+║  └──────────────────────────────────────────────────────────────────────┘      ║
+║                                                                                ║
+║  ┌──────────────────────────────────────────────────────────────────────┐      ║
+║  │  📡 CANAIS DE COMUNICAÇÃO                                            │      ║
+║  │  ═══════════════════════════                                         │      ║
+║  │  COMM-1 [GITHUB]........: github.com/joao-robertoo                   │      ║
+║  │  COMM-2 [PORTFÓLIO].....: https://portifolio-nu-ruddy-64.vercel.app/ │      ║
+║  │  COMM-3 [LINKEDIN]......: linkedin.com/in/joaorobertoo               │      ║
+║  │  COMM-4 [INSTAGRAM].....: @joao_rpj                                  │      ║
+║  └──────────────────────────────────────────────────────────────────────┘      ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📡 DADOS DE TELEMETRIA
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
+```javascript
+// SISTEMA DE NAVEGAÇÃO ESPACIAL
+const dadosAstronauta = {
+  identidade: {
+    nome: "JOÃO ROBERTO",
+    designacao: "FULL-STACK-01",
+    patente: "DESENVOLVEDOR JÚNIOR",
+    autorizacao: "NÍVEL-5"
+  },
+  
+  coordenadas: {
+    base: "São Paulo, Brasil 🌎",
+    fusoHorario: "UTC-3",
+    setor: "América do Sul"
+  },
+  
+  statusMissao: {
+    saude: "100% ❤️",
+    sistemas: "OPERACIONAL ✅",
+    combustivel: "CURIOSIDADE ILIMITADA ∞",
+    trajetoria: "ASCENDENTE 📈"
+  },
+  
+  capacidades: [
+    "🎨 NAVEGAÇÃO FRONT-END",
+    "⚙️ PROPULSÃO BACK-END",
+    "🗄️ CONSTELAÇÃO DE DADOS",
+    "🤖 INTEGRAÇÃO DE IA",
+    "☁️ DEPLOY EM NUVEM"
+  ]
+};
+
+console.log("🚀 PRONTO PARA LANÇAMENTO");
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 DIÁRIO DE BORDO
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
+
+```bash
+# ═════════════════════════════════════════
+# DIÁRIO DO CAPITÃO - DATA ESTELAR 2025.02
+# ═════════════════════════════════════════
+
+[ENTRADA 001] Mission Status: ✅ ATIVO
+[ENTRADA 002] Systems Check: 🟢 ALL GREEN
+[ENTRADA 003] Fuel Status: ⛽ OPTIMAL
+
+>>> 📝 NOTA PESSOAL <<<
+
+"Assim como os astronautas da Apollo 13
+transformaram uma tragédia em triunfo,
+eu transformo desafios em soluções. 💪
+
+Cada linha de código é um passo na lua. 🌙
+Cada bug resolvido, um retorno seguro. 🏠
+Cada projeto em produção, uma bandeira
+plantada em território desconhecido. 🚩
+
+O espaço é vasto, mas o código é infinito.
+E eu estou apenas começando a explorar. 🔭"
+
+- Comandante João Roberto 👨‍🚀
+  Missão: Desenvolvimento Full-Stack
+
+# ═════════════════════════════════════════
+# 📡 FIM DA TRANSMISSÃO DO DIÁRIO
+# ═════════════════════════════════════════
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+<div align="center">
+
+## 🚀 SISTEMAS DA NAVE ESPACIAL - ARSENAL TECNOLÓGICO
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                  PAINEL DE CONTROLE DOS SISTEMAS DA NAVE 🎛️                    ║
+║                  ════════════════════════════════════════                      ║
+║   ┌──────────────────────────────────────────────────────────────────────┐   ║
+║   │  🛰️  TODOS OS SISTEMAS OPERACIONAIS                                  │   ║
+║   │  ⚡ NÍVEIS DE ENERGIA: ████████████████ MÁXIMOS                       │   ║
+║   │  🔋 STATUS DO COMBUSTÍVEL: ∞ CRIATIVIDADE INFINITA                   │   ║
+║   │  📡 COMUNICAÇÕES: 🟢 ONLINE                                           │   ║
+║   │  🛡️ ESCUDOS: 🟢 ATIVOS                                                │   ║
+║   └──────────────────────────────────────────────────────────────────────┘   ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🌠 **ESTAÇÕES ESPACIAIS TECNOLÓGICAS** 🌠
@@ -75,7 +252,7 @@ const joaoRoberto = {
 </div>
 
 <!-- SEÇÃO FRONT-END -->
-<details open>
+<details>
 <summary><h3>🎨 HANGAR FRONT-END - Onde as Interfaces Ganham Vida</h3></summary>
 
 <div align="center">
@@ -197,21 +374,48 @@ const joaoRoberto = {
 
 <div align="center">
 
-## 🌌 **MAPA ESTELAR DE ATIVIDADES** 🌌
+## 📊 TELEMETRIA DA MISSÃO - ANÁLISE DE PERFORMANCE
 
-<!-- Gráfico de Contribuições -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joao-robertoo&theme=react-dark&hide_border=true&area=true&custom_title=Viagem%20Através%20do%20Tempo%20e%20do%20Código"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                        📈 ANÁLISE DE DADOS DE TELEMETRIA                       ║
+║                    🎯 MONITORAMENTO DE PERFORMANCE EM TEMPO REAL               ║
+║  ┌──────────────────────────────────────────────────────────────────────┐   ║
+║  │  ⚡ PERFORMANCE DO SISTEMA                                            │   ║
+║  │  Frequência Commits..: [████████████████████] ✅ ÓTIMO                │   ║
+║  │  Qualidade Código....: [████████████████████] ⭐ EXCELENTE           │   ║
+║  │  Conclusão Projetos..: [████████████████████] 📊 98.7%                │   ║
+║  │  Taxa Inovação.......: [████████████████████] 🚀 ASCENDENTE          │   ║
+║  └──────────────────────────────────────────────────────────────────────┘   ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-<!-- Estatísticas -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-robertoo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-robertoo&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joao-robertoo&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=🌠%20TRAJETÓRIA%20DE%20CONTRIBUIÇÃO%20-%20LINHA%20DO%20TEMPO%20DA%20MISSÃO"/>
 
-<!-- Sequência de Commits -->
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=joao-robertoo&theme=midnight-purple&hide_border=true"/>
+<br/><br/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=joao-robertoo&theme=dark&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=00ff41"/>
+
+<br/><br/>
+
+
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║  ✅ ANÁLISE DE DADOS COMPLETA                                                  ║
+║  📊 STATUS: TODAS AS MÉTRICAS DENTRO DOS PARÂMETROS ÓTIMOS                    ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ---
 
@@ -233,25 +437,23 @@ const joaoRoberto = {
 
 <div align="center">
 
-## 🌍 **CANAIS DE COMUNICAÇÃO INTERESTELAR** 🌍
+## 📡 CANAIS DE COMUNICAÇÃO - PROTOCOLOS DE CONTATO
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorobertoo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_rpj)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/joaorobertopereirajunior)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://joao-robertoo.github.io)
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 
-</div>
-
----
-
-<div align="center">
-
-<!-- ANIMAÇÃO DE COBRA COMENDO AS CONTRIBUIÇÕES -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joao-robertoo/joao-robertoo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joao-robertoo/joao-robertoo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joao-robertoo/joao-robertoo/output/github-contribution-grid-snake.svg">
-</picture>
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                    🛰️ ESTABELECENDO LINKS DE COMUNICAÇÃO                      ║
+║                📡 TODOS OS CANAIS ATIVOS E PRONTOS PARA TRANSMISSÃO           ║
+║  ┌──────────────────────────────────────────────────────────────────────┐   ║
+║  │  📊 STATUS DO CANAL                                                   │   ║
+║  │  CANAL ALPHA [LINKEDIN]......: [████████████] ✅ ATIVO                │   ║
+║  │  CANAL BETA  [INSTAGRAM].....: [████████████] ✅ ATIVO                │   ║
+║  │  CANAL GAMMA [PORTFÓLIO].....: [████████████] ✅ ATIVO                │   ║
+║  │  CANAL DELTA [FACEBOOK]......: [████████████] ✅ ATIVO                │   ║
+║  └──────────────────────────────────────────────────────────────────────┘   ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -265,11 +467,51 @@ const joaoRoberto = {
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=120&section=footer"/>
+</div>
 
-<!-- Contador de Visitantes -->
-![Visitor Count](https://profile-counter.glitch.me/joao-robertoo/count.svg)
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                           🌌 DECLARAÇÃO DA MISSÃO 🌌                           ║
+║                                                                                ║
+║  "Escolhemos ir à Lua nesta década e fazer as outras coisas,                 ║
+║   não porque são fáceis, mas porque são difíceis"                            ║
+║                                            - John F. Kennedy, 1962             ║
+║                                                                                ║
+║  Assim como os astronautas da Apollo 11 ousaram pisar na Lua 🌙,             ║
+║  eu ouso criar soluções que transformam o impossível em realidade. 💡         ║
+║                                                                                ║
+║  Cada linha de código é um pequeno passo. 👣                                  ║
+║  Cada projeto concluído, um salto gigante. 🚀                                 ║
+║  E cada desafio superado, uma nova fronteira conquistada. ⭐                  ║
+║                                                                                ║
+║                    - JOÃO ROBERTO, DESENVOLVEDOR FULL-STACK 👨‍🚀                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50"/> 
+A EXPLORAÇÃO NUNCA TERMINA 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="50"/>
+
+<br/><br/>
+
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                          🛸 FIM DA TRANSMISSÃO 🛸                              ║
+║                    📡 CONTROLE DE MISSÃO - SÃO PAULO, BRASIL 🇧🇷               ║
+║                  © 2025 JOÃO ROBERTO - TODOS OS DIREITOS RESERVADOS            ║
+║                   [SINAL PERDIDO] ... ... [RECONECTANDO] 📶                    ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=120&section=footer"/>
 
 ---
