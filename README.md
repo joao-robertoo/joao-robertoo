@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- HEADER ESPACIAL COM ANIMAÇÃO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=200&section=header&text=João%20Roberto&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Navegando%20pelas%20Dimensões%20do%20Código&descAlignY=55&descSize=18"/>
+<!-- HEADER MEGA ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=300&section=header&text=JOÃO%20ROBERTO&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20DESENVOLVEDOR%20FULL-STACK%20%7C%20CONTROLE%20DE%20MISSÃO%20🛸&descAlignY=51&descSize=20"/>
+
 
 <!-- ASTRONAUTA ANIMADO -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="80"/>
@@ -510,6 +511,7 @@ E eu estou apenas começando a explorar. 🔭"
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=120&section=footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=150&section=footer"/>
 
 ---
