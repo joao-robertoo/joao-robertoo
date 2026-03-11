@@ -33,7 +33,7 @@
          ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝╚══════╝╚══════╝
                                                                                 
          ╔════════════════════════════════════════════════════════════════╗
-         ║  🚀 ID DA MISSÃO: FULL-STACK-DEV-2025                          ║
+         ║  🚀 ID DA MISSÃO: FULL-STACK-DEV-2026                          ║
          ║  👨‍🚀 ASTRONAUTA: JOÃO ROBERTO                                   ║
          ║  📊 STATUS: ████████████████████████ [OPERACIONAL 100%]       ║
          ║  🌍 LOCALIZAÇÃO: SÃO PAULO, BRASIL - PLANETA TERRA            ║
