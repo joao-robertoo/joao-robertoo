@@ -502,7 +502,7 @@ E eu estou apenas começando a explorar. 🔭"
 ╔════════════════════════════════════════════════════════════════════════════════╗
 ║                          🛸 FIM DA TRANSMISSÃO 🛸                              ║
 ║                    📡 CONTROLE DE MISSÃO - SÃO PAULO, BRASIL 🇧🇷               ║
-║                  © 2025 JOÃO ROBERTO - TODOS OS DIREITOS RESERVADOS            ║
+║                  © 2026 JOÃO ROBERTO - TODOS OS DIREITOS RESERVADOS            ║
 ║                   [SINAL PERDIDO] ... ... [RECONECTANDO] 📶                    ║
 ╚════════════════════════════════════════════════════════════════════════════════╝
 ```
